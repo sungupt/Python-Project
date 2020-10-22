@@ -1,0 +1,15 @@
+Hi there, this is a fun python pygame project to visualize A* path finding Algorithm.
+I will kfurther add different path finding algorithms, but for starters,we will begin with A* Path Finding Algorithm.
+To get started,make sure that you have python installed in your pc.
+Python 3.7 or above just do the thing.
+Now then, check you have latest version of pip install.
+pip is a a default package manager for Python package.By default,it is already installed with Python package.
+To check pip version,open your command prompt and hit and enter: pip --version
+To install its latest version, hit and enter: python -m pip install -upgrade pip
+to install pygame,hit and enter: pip install pygame
+You are all set to write your code.Choose any code editor of your choice.
+Check the source code from: project0.py
+After comlition of code,execute it.
+Set initial node(start) and final node(end) and draw the boulders between the path.
+To start the visualization,press: F5 + Space(tab) buttons
+to re-enter the nodes,press : F5 + c 
